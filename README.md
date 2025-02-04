@@ -21,3 +21,9 @@ KEY TERMINOLOGIES-
 
 5. On Time In Full (OTIF) %
 -> It determines if an order is delivered BOTH in full and On Time as per the customer order request.
+
+TOUR OF DASHBOARD-
+This Dashboard consists of 5 Pages
+1. Home Page - This page contains basic information about other pages in Dashboard and will allows user to navigate to respective pages. 
+![pbi1](https://github.com/user-attachments/assets/ea3fecbf-d508-433b-ae5d-a18cfdfa6309)
+
