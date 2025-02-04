@@ -24,6 +24,9 @@ KEY TERMINOLOGIES-
 
 TOUR OF DASHBOARD-
 This Dashboard consists of 5 Pages
-1. Home Page - This page contains basic information about other pages in Dashboard and will allows user to navigate to respective pages. 
+1. Home Page - This page contains basic information about other pages in Dashboard and allows user to navigate to respective pages. 
 ![pbi1](https://github.com/user-attachments/assets/ea3fecbf-d508-433b-ae5d-a18cfdfa6309)
+
+2. Info Page- This page contains Key Terminologies with their definations.
+   ![pbi5](https://github.com/user-attachments/assets/44916323-83db-47db-9512-25c1a9b17701)
 
